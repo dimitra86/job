@@ -1,0 +1,20 @@
+.logo-mail {
+    color: #5b4295;
+}
+
+.logo-neutron {
+    color: #858688;
+}
+
+.logo {
+    font-family: Titillium Web Bold;
+}
+
+header {
+    background-image: url(../NeutronMail/assets/images/header-background.png)
+}
+
+@font-face {
+    font-family: Titillium Web Bold;
+    src: url(../NeutronMail/assets/fonts/TitilliumWeb-Bold.ttf);
+}
