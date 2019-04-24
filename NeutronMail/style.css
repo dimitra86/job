@@ -1,13 +1,30 @@
+.nav-item {
+    display: flex;
+    flex-direction: row;
+}
+
 .logo-mail {
     color: #5b4295;
+    font-family: Titillium Web Bold;
 }
 
 .logo-neutron {
     color: #858688;
+    font-family: Titillium Web Bold;
 }
 
-.logo {
-    font-family: Titillium Web Bold;
+.interface-menu a {
+    color: #858688;
+    text-decoration: none;
+}
+
+.interface-menu {
+    color: #858688;
+}
+
+.interface-menu a .selected {
+    font-weight: bold;
+    text-decoration: underline;
 }
 
 header {
